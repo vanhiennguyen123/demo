@@ -1,0 +1,7 @@
+git init
+git add .
+git config --global user.email "myemail account github"
+git config --global user.name "myname"
+git commit -m "myname"
+git .. (ðý?ng d?n ð?n cái repositories)
+git push -u origin master
